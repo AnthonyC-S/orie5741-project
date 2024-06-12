@@ -21,3 +21,7 @@ over $10 Billion in financial fraud loss in 2023. Ideally to minimize losses, th
 as possible and at the source of a new account application. Waiting to catch fraudulent transactions as they occur 
 is inefficient and carries higher risk. This project proposes leveraging big data analytics techniques on a newly 
 available BAF dataset, to identify warning signs of potential fraud in bank account applications.
+
+<h3>Project Flowchart</h3>
+
+<img src="plot_images/flowchart.png" alt="Flowchart" width="500"/>
